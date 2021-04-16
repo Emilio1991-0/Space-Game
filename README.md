@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/egutiese/Space%20Game/_apis/build/status/Emilio1991-0.Space-Game?branchName=master)](https://dev.azure.com/egutiese/Space%20Game/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
